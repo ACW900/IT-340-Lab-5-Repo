@@ -1,0 +1,1000 @@
+===== System Monitor Report: Sun May  3 21:21:55 EDT 2026 =====
+--- Uptime ---
+ 21:21:55 up  1:46,  1 user,  load average: 0.39, 0.41, 0.22
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.8Gi       113Mi        57Mi       1.6Gi       1.5Gi
+Swap:          3.5Gi       391Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  56% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:25:02 EDT 2026 =====
+--- Uptime ---
+ 21:25:02 up  1:49,  1 user,  load average: 1.03, 0.80, 0.41
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.8Gi       113Mi        54Mi       1.6Gi       1.5Gi
+Swap:          3.5Gi       397Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:26:01 EDT 2026 =====
+--- Uptime ---
+ 21:26:01 up  1:50,  1 user,  load average: 0.51, 0.70, 0.40
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.8Gi       114Mi        54Mi       1.6Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:27:01 EDT 2026 =====
+--- Uptime ---
+ 21:27:01 up  1:51,  1 user,  load average: 0.18, 0.57, 0.37
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.8Gi       114Mi        54Mi       1.6Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:28:01 EDT 2026 =====
+--- Uptime ---
+ 21:28:01 up  1:52,  1 user,  load average: 0.19, 0.49, 0.36
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.8Gi       114Mi        54Mi       1.6Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:29:01 EDT 2026 =====
+--- Uptime ---
+ 21:29:01 up  1:53,  1 user,  load average: 0.54, 0.52, 0.37
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.8Gi       105Mi        57Mi       1.6Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:30:01 EDT 2026 =====
+--- Uptime ---
+ 21:30:01 up  1:54,  1 user,  load average: 1.05, 0.63, 0.42
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       187Mi        57Mi       1.5Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:31:01 EDT 2026 =====
+--- Uptime ---
+ 21:31:01 up  1:55,  1 user,  load average: 0.93, 0.71, 0.46
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       188Mi        57Mi       1.5Gi       1.6Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:32:01 EDT 2026 =====
+--- Uptime ---
+ 21:32:01 up  1:56,  1 user,  load average: 0.91, 0.74, 0.48
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       180Mi        61Mi       1.5Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:33:01 EDT 2026 =====
+--- Uptime ---
+ 21:33:01 up  1:57,  1 user,  load average: 1.11, 0.85, 0.54
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       179Mi        57Mi       1.5Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:34:01 EDT 2026 =====
+--- Uptime ---
+ 21:34:01 up  1:58,  1 user,  load average: 1.60, 1.06, 0.63
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       179Mi        57Mi       1.5Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:35:01 EDT 2026 =====
+--- Uptime ---
+ 21:35:01 up  1:59,  1 user,  load average: 2.10, 1.29, 0.74
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       183Mi        57Mi       1.5Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:36:01 EDT 2026 =====
+--- Uptime ---
+ 21:36:01 up  2:00,  1 user,  load average: 2.14, 1.47, 0.84
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       182Mi        57Mi       1.5Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:37:01 EDT 2026 =====
+--- Uptime ---
+ 21:37:01 up  2:01,  1 user,  load average: 1.86, 1.52, 0.90
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       164Mi        60Mi       1.6Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:38:01 EDT 2026 =====
+--- Uptime ---
+ 21:38:01 up  2:02,  1 user,  load average: 1.03, 1.36, 0.88
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       180Mi        57Mi       1.5Gi       1.6Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:39:01 EDT 2026 =====
+--- Uptime ---
+ 21:39:01 up  2:03,  1 user,  load average: 0.42, 1.12, 0.83
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       159Mi        57Mi       1.6Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:40:01 EDT 2026 =====
+--- Uptime ---
+ 21:40:01 up  2:04,  1 user,  load average: 0.78, 1.12, 0.85
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       161Mi        57Mi       1.6Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:41:01 EDT 2026 =====
+--- Uptime ---
+ 21:41:01 up  2:05,  1 user,  load average: 0.45, 0.96, 0.81
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       161Mi        57Mi       1.6Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:42:01 EDT 2026 =====
+--- Uptime ---
+ 21:42:01 up  2:06,  1 user,  load average: 0.41, 0.86, 0.79
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       161Mi        57Mi       1.6Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:43:01 EDT 2026 =====
+--- Uptime ---
+ 21:43:01 up  2:07,  1 user,  load average: 0.71, 0.87, 0.79
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       160Mi        57Mi       1.6Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:44:01 EDT 2026 =====
+--- Uptime ---
+ 21:44:01 up  2:08,  1 user,  load average: 0.36, 0.74, 0.75
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       160Mi        57Mi       1.6Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:45:02 EDT 2026 =====
+--- Uptime ---
+ 21:45:02 up  2:09,  1 user,  load average: 0.16, 0.61, 0.71
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       163Mi        57Mi       1.6Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:46:01 EDT 2026 =====
+--- Uptime ---
+ 21:46:01 up  2:10,  1 user,  load average: 0.20, 0.55, 0.68
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       162Mi        57Mi       1.6Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:47:01 EDT 2026 =====
+--- Uptime ---
+ 21:47:01 up  2:11,  1 user,  load average: 0.12, 0.47, 0.64
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       160Mi        57Mi       1.6Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:48:01 EDT 2026 =====
+--- Uptime ---
+ 21:48:01 up  2:12,  1 user,  load average: 0.04, 0.38, 0.60
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       160Mi        57Mi       1.6Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:49:01 EDT 2026 =====
+--- Uptime ---
+ 21:49:01 up  2:13,  1 user,  load average: 0.13, 0.33, 0.57
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       160Mi        57Mi       1.6Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:50:01 EDT 2026 =====
+--- Uptime ---
+ 21:50:01 up  2:14,  1 user,  load average: 0.04, 0.27, 0.53
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       160Mi        57Mi       1.6Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:51:01 EDT 2026 =====
+--- Uptime ---
+ 21:51:01 up  2:15,  1 user,  load average: 0.06, 0.23, 0.50
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       160Mi        57Mi       1.6Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:52:01 EDT 2026 =====
+--- Uptime ---
+ 21:52:01 up  2:16,  1 user,  load average: 0.02, 0.19, 0.46
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       160Mi        57Mi       1.6Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:53:01 EDT 2026 =====
+--- Uptime ---
+ 21:53:01 up  2:17,  1 user,  load average: 0.08, 0.17, 0.44
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       184Mi        57Mi       1.6Gi       1.6Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:54:01 EDT 2026 =====
+--- Uptime ---
+ 21:54:01 up  2:18,  1 user,  load average: 0.08, 0.15, 0.41
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       184Mi        57Mi       1.6Gi       1.6Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:55:01 EDT 2026 =====
+--- Uptime ---
+ 21:55:01 up  2:19,  1 user,  load average: 0.13, 0.15, 0.40
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       184Mi        57Mi       1.6Gi       1.6Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:56:01 EDT 2026 =====
+--- Uptime ---
+ 21:56:01 up  2:20,  1 user,  load average: 0.05, 0.12, 0.37
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       184Mi        57Mi       1.6Gi       1.6Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:57:01 EDT 2026 =====
+--- Uptime ---
+ 21:57:01 up  2:21,  1 user,  load average: 0.02, 0.10, 0.34
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       184Mi        57Mi       1.6Gi       1.6Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:58:01 EDT 2026 =====
+--- Uptime ---
+ 21:58:01 up  2:22,  1 user,  load average: 0.00, 0.08, 0.32
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       183Mi        57Mi       1.6Gi       1.6Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 21:59:01 EDT 2026 =====
+--- Uptime ---
+ 21:59:01 up  2:23,  1 user,  load average: 0.00, 0.06, 0.30
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       183Mi        57Mi       1.6Gi       1.6Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 22:00:01 EDT 2026 =====
+--- Uptime ---
+ 22:00:01 up  2:24,  1 user,  load average: 0.00, 0.05, 0.27
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       183Mi        57Mi       1.6Gi       1.6Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 22:01:01 EDT 2026 =====
+--- Uptime ---
+ 22:01:01 up  2:25,  1 user,  load average: 0.05, 0.05, 0.26
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       183Mi        57Mi       1.6Gi       1.6Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 22:02:01 EDT 2026 =====
+--- Uptime ---
+ 22:02:01 up  2:26,  1 user,  load average: 0.02, 0.04, 0.24
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       183Mi        57Mi       1.6Gi       1.6Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 22:03:01 EDT 2026 =====
+--- Uptime ---
+ 22:03:01 up  2:27,  1 user,  load average: 0.15, 0.06, 0.24
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       183Mi        57Mi       1.6Gi       1.6Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 22:04:01 EDT 2026 =====
+--- Uptime ---
+ 22:04:01 up  2:28,  1 user,  load average: 0.05, 0.05, 0.22
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       183Mi        57Mi       1.6Gi       1.6Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 22:05:01 EDT 2026 =====
+--- Uptime ---
+ 22:05:01 up  2:29,  1 user,  load average: 0.02, 0.04, 0.20
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       183Mi        57Mi       1.6Gi       1.6Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 22:06:01 EDT 2026 =====
+--- Uptime ---
+ 22:06:01 up  2:30,  1 user,  load average: 0.00, 0.03, 0.18
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       183Mi        57Mi       1.6Gi       1.6Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 22:07:01 EDT 2026 =====
+--- Uptime ---
+ 22:07:01 up  2:31,  1 user,  load average: 0.00, 0.02, 0.17
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       183Mi        57Mi       1.6Gi       1.6Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 22:08:01 EDT 2026 =====
+--- Uptime ---
+ 22:08:01 up  2:32,  1 user,  load average: 0.00, 0.02, 0.16
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       183Mi        57Mi       1.6Gi       1.6Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 22:09:01 EDT 2026 =====
+--- Uptime ---
+ 22:09:01 up  2:33,  1 user,  load average: 0.06, 0.03, 0.15
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       170Mi        57Mi       1.6Gi       1.6Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 22:10:01 EDT 2026 =====
+--- Uptime ---
+ 22:10:02 up  2:34,  1 user,  load average: 0.10, 0.04, 0.15
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       172Mi        57Mi       1.6Gi       1.6Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 22:11:01 EDT 2026 =====
+--- Uptime ---
+ 22:11:01 up  2:35,  1 user,  load average: 0.16, 0.07, 0.15
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       173Mi        57Mi       1.6Gi       1.6Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 22:12:01 EDT 2026 =====
+--- Uptime ---
+ 22:12:01 up  2:36,  1 user,  load average: 0.28, 0.13, 0.17
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       181Mi        57Mi       1.6Gi       1.6Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
+===== System Monitor Report: Sun May  3 22:13:01 EDT 2026 =====
+--- Uptime ---
+ 22:13:01 up  2:37,  1 user,  load average: 1.58, 0.57, 0.32
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       1.7Gi       159Mi        69Mi       1.6Gi       1.5Gi
+Swap:          3.5Gi       400Mi       3.1Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.5M  669M   1% /run
+/dev/sda2        20G   11G  8.2G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  7.6M  1.7G   1% /tmp
+/dev/sr1        5.4G  5.4G     0 100% /media/acw33/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/acw33/CDROM
+tmpfs           336M  104K  336M   1% /run/user/1000
+
